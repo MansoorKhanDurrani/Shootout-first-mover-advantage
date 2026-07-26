@@ -180,6 +180,6 @@ developed and merged independently:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Mansoor Khan Durrani**
