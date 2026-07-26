@@ -138,7 +138,7 @@ rather than only reporting accuracy at face value.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 shootout-first-mover-advantage/
@@ -169,7 +169,7 @@ shootout-first-mover-advantage/
 ---
 
 
-## 🌿 Git Workflow
+##  Git Workflow
 
 This project followed a strict branching model, with each pipeline stage
 developed and merged independently:
